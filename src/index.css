@@ -115,6 +115,9 @@ code {
 	padding-left: 680px;
 }
 
+.chart-data {
+  height: 100vh;
+}
 .gridBackground {
 	background: #DDDD;
 	padding-top: 4px;
